@@ -33,3 +33,11 @@ body{
     max-width: 1150px;
     margin: auto;
 }
+.dv4{
+    display: flex;
+    align-items: center;
+    max-width: 1150px;
+    gap: 150px;
+    margin: auto;
+  
+}
