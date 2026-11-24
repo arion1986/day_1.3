@@ -41,3 +41,6 @@ body{
     margin: auto;
   
 }
+.dv5{
+    flex-direction: row-reverse;
+}
