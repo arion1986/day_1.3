@@ -44,3 +44,12 @@ body{
 .dv5{
     flex-direction: row-reverse;
 }
+.dv6{
+    text-align: center;
+}
+.dv7{
+    display: flex;
+    max-width: 1150px;
+    margin: auto;
+    justify-content: space-between;
+}
